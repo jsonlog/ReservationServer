@@ -7,7 +7,8 @@
   "author": "WeihanLi",
   "license": "MIT",
   "dependencies": {
-    "got": "^9.6.0"
+    "got": "^9.6.0",
+    "http": "0.0.1-security"
   },
   "devDependencies": {
     "@types/got": "^9.6.7",
